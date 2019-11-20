@@ -1,2 +1,3 @@
 # drarnold.github.io
-A cool personal site
+
+Terminal based portfolio website for drarnold, aka ME!
